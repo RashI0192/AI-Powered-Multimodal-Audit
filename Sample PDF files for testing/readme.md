@@ -1,0 +1,1 @@
+- This is collection of test PDFs focused on research text, tables, and chart-heavy documents to evaluate the generalization capability of the pipeline.
