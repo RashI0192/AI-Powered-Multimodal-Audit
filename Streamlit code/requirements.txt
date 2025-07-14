@@ -1,0 +1,14 @@
+streamlit
+pytesseract
+numpy
+torch
+Pillow
+opencv-python
+sentence-transformers
+transformers
+langchain
+langchain-community
+langchain-core
+langchain-groq
+faiss-cpu
+unstructured
