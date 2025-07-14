@@ -77,5 +77,6 @@
 ---
 
 ## Flowchart : 
-<img width="2121" height="5688" alt="Simple flowchart to describe the workflow" src="https://github.com/user-attachments/assets/c71adf82-1ae9-45f4-945f-d2bece6892a6" />
+
+<img width="245" height="654" alt="Workflow Flowchart" src="https://github.com/user-attachments/assets/71110c2a-4c6e-4cdc-a344-f506a577414d" />
 
